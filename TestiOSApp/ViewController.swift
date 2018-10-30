@@ -78,7 +78,7 @@ class ViewController: UIViewController {
         freeifaddrs(ifaddr)
         return addresses
     }
-
+// dev second commit 
     func authenticateUser() {
 
         let context = LAContext()
